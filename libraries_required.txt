@@ -1,0 +1,6 @@
+1.streamlit
+2.pandas
+3.numpy
+4.scikit-learn
+5.joblib
+6.pickle-mixin
